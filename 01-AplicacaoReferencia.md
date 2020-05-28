@@ -2,7 +2,7 @@
 
 Primeiro dia de trabalho e podemos conhecer a nossa **aplicação que está em desenvolvimento**.
 
-
+![Backoffice] (images/screenshot_app_ref_001.png?raw=true)
 
 ### Pré-requisitos
 
