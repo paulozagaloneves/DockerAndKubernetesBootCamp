@@ -15,9 +15,8 @@ Você terá que se esforçar e estudar de verdade.
 ### Este bootcamp é para mim ?
 
 
-## Aplicação de referência
 
-### Arquitetura da aplicação
+
 
 ### Setup do ambiente
 
