@@ -2,6 +2,9 @@
 
 Primeiro dia de trabalho e podemos conhecer a nossa **aplicação que está em desenvolvimento**.
 
+É uma aplicação de backoffice com gestão de utilizadores, perfis, canais, etc..
+
+![](images/screenshot_app_ref_001.png?raw=true)
 
 
 ### Pré-requisitos
