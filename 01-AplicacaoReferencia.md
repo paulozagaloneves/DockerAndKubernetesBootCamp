@@ -2,7 +2,7 @@
 
 Primeiro dia de trabalho e podemos conhecer a nossa **aplicação que está em desenvolvimento**.
 
-![Backoffice] (/paulozagaloneves/DockerAndKubernetesBootCamp/blob/master/images/screenshot_app_ref_001.png?raw=true) {:height="50%" width="50%"}
+![Backoffice] (https://github.com/paulozagaloneves/DockerAndKubernetesBootCamp/blob/master/images/screenshot_app_ref_001.png?raw=true) {:height="50%" width="50%"}
 
 
 ### Pré-requisitos
